@@ -126,3 +126,132 @@ header .menu ul li a{
     color:white;
     
 
+}
+
+
+#branch .container{
+    background: url(./bg3.png) no-repeat;
+    background-size: 100% 100%;
+
+}
+#branch .container .title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 0px;
+    margin-right: 50px;
+}
+
+#branch .container .title .line{
+    width: 2000px;
+    height:50px;
+    background: gray;
+    margin-top: 33px;
+
+}
+#branch .container .title h1{
+    font-family: 'Belleza', sans-serif;
+    font-size: 2rem;
+    font-weight: 200;
+    text-transform: uppercase;
+    letter-spacing:15px;
+    margin-top: 50px;
+    color: rgb(12, 236, 8);
+    margin-left: 50px;
+
+}
+#branch .container .content{
+    width:100%;
+    height:90vh;
+    display: flex;
+    justify-content: space-evenly;
+}
+#branch .container .content .box{
+    width: 27%;
+    height: 61vh;
+    background:rgba(61, 55, 55, 0.805);
+    border-radius: 20px;
+    box-shadow: 0 0 15px rgba(255, 254, 254, 0.7);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 70px;
+    
+    
+}
+#branch .container .box h3{
+    margin-top:22px;
+    margin-bottom: 60px;
+    font-family: 'Belleza', sans-serif;
+    font-weight: 200;
+    letter-spacing: 8px;
+    padding: 5px 5px;
+    background: #0bdb54;
+    border-radius: 5px;
+
+
+}
+
+#branch .container .box h1{
+    margin-top:22px;
+    margin-bottom: 60px;
+    font-family: 'Belleza', sans-serif;
+    font-weight: 200;
+    letter-spacing: 8px;
+    background:rgb(7, 222, 97);
+    padding: 5px 5px;
+    color: #000000;
+    border-radius: 5px;
+}
+#branch .container .box h4{
+    margin-top:22px;
+    margin-bottom: 60px;
+    font-family: 'Belleza', sans-serif;
+    font-weight: 200;
+    letter-spacing: 8px;
+    padding: 5px 5px;
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+}
+#branch .container .box img{
+    width:100px;
+}
+#branch .container .box h4{
+    font-size: 1rem;
+    font-family: 'Belleza', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    margin-top:20px;
+    color:rgb(12, 236, 8);
+}
+
+#branch .container .box h2{
+    font-family: 'Bebas Neue' cursive;
+    font-size: 1.8rem;
+    letter-spacing: 10px;
+    color:white;
+    margin-top:30px;
+}
+
+#branch .container .box button{
+    padding: 16px 20px;
+    border:none;
+    background: #4f4e57;
+    color:black;
+    font-family: 'Belleza', sans-serif;
+    font-size: 1.2rem;
+    margin-top:0px;
+    cursor: pointer;
+    transform: translateY(-48PX);
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.5s ease;
+
+}
+#branch .container .box:hover button{
+    transform: translateY(0);
+    opacity: 1;
+    visibility: visible;
+}
