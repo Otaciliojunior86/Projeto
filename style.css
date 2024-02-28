@@ -29,6 +29,7 @@ main{
 }
 img{
     width: 100%;
+
 }
 .Relogio{
 
@@ -46,6 +47,8 @@ img{
 
 .sub{
     margin-right: 100px;
+    color: white;
+    font-size: 25px
     
     
 
