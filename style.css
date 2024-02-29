@@ -152,3 +152,13 @@ header .menu ul li a{
     margin-top: 33px;
 
 }
+#branch .container .title h1{
+    font-family: 'Belleza', sans-serif;
+    font-size: 2rem;
+    font-weight: 200;
+    text-transform: uppercase;
+    letter-spacing:15px;
+    margin-top: 50px;
+    color: rgb(12, 236, 8);
+    margin-left: 50px;
+}
