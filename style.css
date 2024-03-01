@@ -189,8 +189,8 @@ header .menu ul li a{
     font-weight: 200;
     letter-spacing: 8px;
     padding: 5px 5px;
-    background: rgb(10, 134, 33);
-    color:white;
+    background: rgba(0, 130, 173, 0.549);
+    color: rgb(255, 255, 255);
     border-radius: 5px;
 
 
@@ -214,7 +214,7 @@ header .menu ul li a{
     font-weight: 200;
     letter-spacing: 8px;
     padding: 5px 5px;
-    color: rgba(13, 218, 147, 0.775);
+    color: rgb(16, 207, 121);
     border-radius: 5px;
 }
 #branch .container .box img{
