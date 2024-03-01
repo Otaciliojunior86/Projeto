@@ -171,9 +171,9 @@ header .menu ul li a{
 #branch .container .content .box{
     width: 25%;
     height: 55vh;
-    background:rgba(61, 55, 55, 0.805);
+    background:rgba(0, 0, 0, 0.805);
     border-radius: 20px;
-    box-shadow: 0 0 15px rgba(255, 254, 254, 0.7);
+    box-shadow: 0 0 15px rgba(9, 212, 46, 0.7);
     display: flex;
     align-items: center;
     justify-content: center;
