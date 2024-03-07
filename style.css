@@ -256,3 +256,24 @@ header .menu ul li a{
     transform: translateY(0);
     opacity: 1;
     visibility: visible;
+}
+
+       
+.whatsapp-link {
+    position: fixed;
+    width:60px;
+    height: 60px;
+    bottom:40px;
+    right: 40px;
+    background-color: rgb(4, 211, 28);;
+    color: white;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 1px 1px 2px #888;
+    z-index: 1000;
+}
+
+.fa-whatsapp{
+     margin-top: 16px;
+}
