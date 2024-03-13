@@ -359,7 +359,7 @@ header .menu ul li a:hover{
     justify-content: center;
     flex-direction: column;
     margin-top: 100px;
-    margin-left: 120px;
+    margin-left: 20px;
 }
 #products .container .title .line{
     width: 2000px;
@@ -369,13 +369,12 @@ header .menu ul li a:hover{
 }
 #products .container .title h1{
     font-family: 'Belleza', sans-serif;
-    font-size: 3rem;
+    font-size: 2rem;
     font-weight: 200;
     text-transform: uppercase;
     letter-spacing:15px;
-    margin-top: 100px;
-    color:rgb(12, 236, 8);
-    margin-right: 200px;
- 
+    margin-top: 50px;
+    color: rgb(12, 236, 8);
+    margin-left: 52px;
 
 }
