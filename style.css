@@ -71,7 +71,7 @@ img{
 }
 
 .call:hover{
-    color: rgb(15, 15, 78);
+    color: rgb(60, 60, 211);
 }
 
 
@@ -251,7 +251,7 @@ header .menu ul li a:hover{
     padding: 16px 20px;
     border:none;
     background: #4f4e57;
-    color:black;
+   color: rgb(12, 236, 8);
     font-family: 'Belleza', sans-serif;
     font-size: 1.2rem;
     margin-top:0px;
@@ -359,11 +359,12 @@ header .menu ul li a:hover{
     justify-content: center;
     flex-direction: column;
     margin-top: 100px;
-    margin-left: 20px;
+    margin-left: 15px;
 }
 #products .container .title .line{
-    width: 1000px;
+    width: 1700px;
     height: 50px;
+    background: gray;
 
 
 }
