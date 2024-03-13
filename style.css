@@ -57,7 +57,7 @@ img{
     
 }
 .sub:hover{
-    color: green;
+    color: gray;
 }
 
 
@@ -71,7 +71,7 @@ img{
 }
 
 .call:hover{
-    color: blue;
+    color: rgb(15, 15, 78);
 }
 
 
