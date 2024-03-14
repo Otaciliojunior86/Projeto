@@ -393,7 +393,7 @@ header .menu ul li a:hover{
     text-transform: uppercase;
     letter-spacing:15px;
     margin-top: 100px;
-    margin-left: 1px;
+    margin-right: 50px;
 
 
 
@@ -476,6 +476,7 @@ header .menu ul li a:hover{
     outline: nome,!important;
     border-radius: 50%;
     border: 5px solid  rgba(16, 190, 0, 0.7)!important;
+    margin-right: 10px;
 
     
 
