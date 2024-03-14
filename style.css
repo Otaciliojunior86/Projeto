@@ -402,7 +402,7 @@ header .menu ul li a:hover{
 }
 
 #team .container .card{
-    width: 110%;
+    width: 100%;
 
     margin: 0 auto;
     display: flex;
