@@ -172,3 +172,15 @@ header .menu ul li a:hover{
     color: rgb(12, 236, 8);
     margin-left: 52px;
 }
+#branch .container .title h2{
+    font-family: 'Belleza', sans-serif;
+    font-size: 2rem;
+    font-weight: 200;
+    text-transform: uppercase;
+    letter-spacing:15px;
+    margin-top: 100px;
+    color: rgb(255, 255, 255);
+    margin-left: 52px;
+    text-align: justify;
+    text-indent: 50px;
+}
