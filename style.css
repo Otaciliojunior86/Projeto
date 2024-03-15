@@ -388,7 +388,7 @@ header .menu ul li a:hover{
 
 #team .container .title h1{
     font-family: 'Belleza', sans-serif;
-    font-size:3rem;
+    font-size:2.3rem
     font-weight: 200;
     text-transform: uppercase;
     letter-spacing:15px;
@@ -491,4 +491,12 @@ header .menu ul li a:hover{
 
 .container:hover{
     transform: translate(1,2);
+}
+
+::-webkit-scrollbar{
+    width: 10px;
+}
+
+::-webkit-scrollbar-thumb{
+    background-color: rgb(12, 236, 8);
 }
