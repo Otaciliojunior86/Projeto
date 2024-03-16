@@ -251,7 +251,7 @@ header .menu ul li a:hover{
     padding: 16px 20px;
     border:none;
     background: #4f4e57;
-   color: rgb(12, 236, 8);
+    color: rgb(12, 236, 8);
     font-family: 'Belleza', sans-serif;
     font-size: 1.2rem;
     margin-top:0px;
@@ -498,8 +498,9 @@ header .menu ul li a:hover{
 }
 
 ::-webkit-scrollbar-thumb{
-    background-color: rgb(12, 236, 8);
+    background-color:  rgb(7, 222, 97);
 }
+
 
 .image2{
     margin-left: 70px;
