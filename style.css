@@ -527,3 +527,26 @@ header .menu ul li a:hover{
     
 
 }
+form{
+
+    border-radius: 0.3em;
+    padding: 0.3em;
+    margin-left: 62px;
+}
+
+form input, form button{
+    font-size: 1.2em;
+    border-radius: 0.2em;
+    border: none;
+    padding: 0.2em;;
+}
+form button{
+    cursor: pointer;
+    background: none;
+    color: white;
+}
+
+form button:hover{
+
+    color:  rgb(12, 236, 8);
+}
