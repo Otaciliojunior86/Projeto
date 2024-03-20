@@ -531,7 +531,7 @@ form{
 
     border-radius: 0.3em;
     padding: 0.3em;
-    margin-left: 62px;
+    margin-left: 63px;
 }
 
 form input, form button{
@@ -543,10 +543,11 @@ form input, form button{
 form button{
     cursor: pointer;
     background: none;
-    color:  rgb(12, 236, 8);
+    color:  white;
 }
 
 form button:hover{
 
-    color:  rgb(12, 236, 8);
+    color:rgb(7, 222, 97);
+    
 }
