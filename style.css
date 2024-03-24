@@ -18,7 +18,7 @@ body{
 
 main{
 
-    background-color:rgb(0, 0, 0) ,rgb(12, 236, 8);
+    background-color:rgb(0, 0, 0);
     padding: 20px;
     overflow-x: hidden;
 
@@ -553,3 +553,4 @@ form button:hover{
     color:rgb(7, 222, 97);
     
 }
+
