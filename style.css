@@ -415,7 +415,6 @@ header .menu ul li a:hover{
     
 }
 #team .container .card .box{
-    
     height: 45vh;
     background:black;
     display: flex;
@@ -425,6 +424,7 @@ header .menu ul li a:hover{
     margin-top: 5px;
     margin-right: 400px;
     margin-left: 100px;
+    
 
 }
 #team  .container .card .box .icon{
