@@ -163,7 +163,7 @@ header .menu ul li a:hover{
     width: 2000px;
     height:50px;
     background: linear-gradient(120deg,rgb(70, 136, 88),rgb(30, 28, 28));
-    margin-top: 33px;
+    margin-top: 95px;
 
 }
 #branch .container .title h1{
@@ -172,7 +172,7 @@ header .menu ul li a:hover{
     font-weight: 200;
     text-transform: uppercase;
     letter-spacing:15px;
-    margin-top: 50px;
+    margin-top: 60px;
     color: rgb(12, 236, 8);
     margin-left: 52px;
 }
@@ -368,14 +368,14 @@ header .menu ul li a:hover{
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    margin-top: 90px;
+    margin-top: 50px;
     margin-left: 15px;
 }
 #products .container .title .line{
     width: 2000px;
     height: 50px;
     background: linear-gradient(120deg,rgb(70, 136, 88),rgb(30, 28, 28));
-    margin-top: 29px;
+
 
 
 }
@@ -385,7 +385,7 @@ header .menu ul li a:hover{
     font-weight: 200;
     text-transform: uppercase;
     letter-spacing:15px;
-    margin-top: 50px;
+    margin-top: 30px;
     color: rgb(12, 236, 8);
     margin-left: 10px;
 
