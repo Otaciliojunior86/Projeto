@@ -504,7 +504,7 @@ header .menu ul li a:hover{
 }
 
 ::-webkit-scrollbar-thumb{
-    background-color:  rgb(5, 133, 92);
+    background: linear-gradient(120deg,rgb(70, 136, 88),rgb(30, 28, 28));
 }
 
 
