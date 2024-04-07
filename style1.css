@@ -97,7 +97,7 @@ header{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color:gray
+    background: linear-gradient(120deg,rgb(70, 136, 88),rgb(30, 28, 28));
 
 
    
